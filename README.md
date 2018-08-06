@@ -31,7 +31,6 @@ The following **optional** features are implemented:
 * [ ] User can **open the ALATEMAYITI app offline and see last loaded events**. Persisted in SQLite events are refreshed on every application launch. While "live data" is displayed when app can get it from ALETEMAYITI API, it is also saved for use in offline mode.
 * [ ] User can **select "Comment from detail view to react to an event**
 
-aletemayiti/IMG-20180806-WA0001.jpg
 
 ## License
 
