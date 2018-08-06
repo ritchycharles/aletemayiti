@@ -15,12 +15,12 @@ The following **required** functionality is completed:
 
 
 
-*[ ] User can **sign in to ALETEMAYITI** using Facebook or Twitter account or just using the informations provided on sign up
-*[ ] User can **Take and Post a new event using his camera**
-*[-]	User can **view events from their home timeline**
-*[ ] User is displayed the username and details(Photo, comments, views number) for each event
-*[ ] Users can  **view more events as they Scroll Events from the API
-*[ ] User can Share events with other Apps(Facebook, Twitter)
+* [ ] User can **sign in to ALETEMAYITI** using Facebook or Twitter account or just using the informations provided on sign up
+* [ ] User can **Take and Post a new event using his camera**
+* [ ] User can **view events from their home timeline**
+* [ ] User is displayed the username and details(Photo, comments, views number) for each event
+* [ ] Users can  **view more events as they Scroll Events from the API
+* [ ] User can Share events with other Apps(Facebook, Twitter)
 
 
 
