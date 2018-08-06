@@ -4,17 +4,27 @@
 
 Details
  User Account
+ 
  *[ ]Login
+ 
  *[ ]Register
 
 Timeline
+
 *[ ]Scroll Events
 
 Event
+
 *[ ]Event’s Info (Photo, Comment)
+
 *[ ]Event’s Location
+
 *[ ]Event’s views number
 
 Sharing
+
 *[ ]Share events with other Apps
+
+
+
 
