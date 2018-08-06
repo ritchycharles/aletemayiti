@@ -2,11 +2,17 @@
 
 **ALETEMAYITI** is an application designed to allow users to share in real time photos and comments related to events recorded regularly in everyday life in Haiti: Accidents, traffic jams, and all kinds of emergencies. Shared information through this Application is visible to all users, and they can have a clear idea of where the events are happening. 
 
+
 Time spent: **XX** hours spent in total
+
 
 ## User Stories
 
+
+
 The following **required** functionality is completed:
+
+
 
 
 *[ ] User can **sign in to ALETEMAYITI** using Facebook or Twitter account or just using the informations provided on sign up
@@ -17,7 +23,9 @@ The following **required** functionality is completed:
 *[ ] User can Share events with other Apps(Facebook, Twitter)
 
 
+
 The following **optional** features are implemented:
+
 
 * [ ] User can **pull down to refresh events timeline**
 * [ ] User can **open the ALATEMAYITI app offline and see last loaded events**. Persisted in SQLite events are refreshed on every application launch. While "live data" is displayed when app can get it from ALETEMAYITI API, it is also saved for use in offline mode.
